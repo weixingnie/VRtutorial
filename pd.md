@@ -67,9 +67,18 @@ Example of taking photos are here:
 
 You can try Agisoft Metashape software either in demo mode (export and save functions are blocked) or test it in full function mode with 30-day trial license for free. Link: [https://www.agisoft.com/downloads/request-trial/](https://www.agisoft.com/downloads/request-trial/)
 
-Please provide contact data in the form below. The trial license will be sent to the e-mail indicated. The key will allow to activate Agisoft Metashape Professional software and test it in full function mode for 30 days. If you would like to test Agisoft Metashape Standard, please contact us at sales@agisoft.com.
+More information for the trail of using Agisoft Metashape:
+
+*Please provide contact data in the form below. The trial license will be sent to the e-mail indicated. The key will allow to activate Agisoft Metashape Professional software and test it in full function mode for 30 days. If you would like to test Agisoft Metashape Standard, please contact us at sales@agisoft.com.*
 
 ![](img/tutorial16.png)
+
+After you successfully have the activate code from Agisoft, you should be able to download your software from this page.
+
+![](img/tutorial111.png)
+
+Remember we want to install **Agisoft Metashape**.
+Then, you just need to follow the instruction of the software.
 
 ## 3\. Now let's create our 3D model.
 
