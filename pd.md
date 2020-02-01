@@ -14,7 +14,9 @@ For this practical exercise, you will use chrome, unity, and Agisoft Metagshape.
 
 Background information is all from Wikipedia.
 
-**Unity:** is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction. **Click [here](https://store.unity.com/?_ga=2.104680832.1844687138.1579259099-1474823435.1577053797#plans-individual) to Download website**;
+**Unity:** is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction.
+
+**Click [here](https://store.unity.com/?_ga=2.104680832.1844687138.1579259099-1474823435.1577053797#plans-individual) to Download website**;
 ![](img/tutorial1.png)
 (Please select **Individual and Personal**, then press Get started for downloading)
 
@@ -51,9 +53,12 @@ A unity ID is needed for managing and synchronizing your unity project. If you d
 
 **Photo-scanning Reminds**
 
-**Photo-scanning** We are building a 3D model base on photo-scanning technology. Please use your phone/camera to take multiple images around your target. Ensuring the consistency of light is significant for creating a well-detailed model. The more pictures there are, the better the model would be.
+**Photo-scanning**
+
+We are building a 3D model base on photo-scanning technology. Please use your phone/camera to take multiple images around your target. Ensuring the consistency of light is significant for creating a well-detailed model. The more pictures there are, the better the model would be.
 Example of taking photos are here:
 ![](img/tutorial15.jpg)
+
 *The husky model that I did needs around 100 photos at least from multiple angles.*
 
 > A step-by-step tutorial on Agisoft turial
@@ -72,10 +77,12 @@ Please provide contact data in the form below. The trial license will be sent to
 
 ![](img/tutorial3.png)
 
+
 2\. Once you open the software, you enter the main interface of this software.
 
 ![](img/tutorial4.png)
 In this user interface, all of our operations are located on these four colored squares. The largest square with the red color is where our 3D model presents. The circle in the center is a tool for us to navigate our 3D model. It has three-axis (X, Y, Z). Use your mouse to drag on each axis for different angels.
+
 
 3\. The square with the blue color is where our photo appears. You can select each camera position/photo individually.
 The square with the green color is our manual toolbar. It provides function with saving, opening, clicking, zooming, and deleting.
@@ -91,6 +98,7 @@ Personally, I always use “add photos” because it is easier to see all the pi
 
 5\. After you have added all the photos, you shall see them pop out on the workspace area (the square on the left). You shall also notice the dots on your model interface. Each dot represents a virtual camera position,  and the computer uses these dots to align photos for creating a 3D realistic environment.
 ![](img/tutorial6.png)
+
 
 Before we enter the next phase, I strongly recommend you to check the preference setting under the tools.
 
@@ -122,7 +130,8 @@ In this case, everything that you deleted would not be calculated or projected o
 
 ![](img/tutorial12.png)
 
-The higher the texture size is, the better your model is going to appear in the final model.
+The higher the texture size is, the better your model is going to appear in the final model.  
+
 **Texture size recommend: 8192 / 4096 / 2048 / 1024**
 **Remember to save your model first.**
 
