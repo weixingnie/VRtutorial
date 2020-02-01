@@ -118,6 +118,7 @@ Here, you can change the language or all the default settings. You can check you
 ![](img/tutorial10.png)
 
 **To simplify 3D model**
+
 If you just want to run/finish the 3D model of the husky dog(in this example), I would strongly suggest you of using the Area Select tool(red square) and delete button on your keyboard to simply the model. As you can see from the screenshot, the blue circled areas are irrelevant background(reference dot points), which is not necessary for our goal --- 3D scanning of the husky dog.
 
 ![](img/tutorial11.png)
