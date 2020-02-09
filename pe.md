@@ -162,6 +162,8 @@ Also, please use a mouse to control unity. This case will save a lot of time ins
 Select the model you exported earlier from Agisoft and the texture.
 [PLEASE import them at once, like what I did in the image below. In this case, the texture should automatically be recognized and attached to the 3D model. If your model still appears with empty texture, you can manually drag the texture onto the model to finish it.]
 
+*If you do not like so many cameras appearing on your model, you can unpack prefab completely by right click on the objects.*
+
 ![](img/tutorial28.png)
 
 ![](img/tutorial29.png)
