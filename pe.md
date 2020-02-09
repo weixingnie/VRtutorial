@@ -153,11 +153,11 @@ Also, please use a mouse to control unity. This case will save a lot of time ins
 
 ([Click here to watch](https://www.youtube.com/watch?v=IlKaB1etrik&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2))
 
-![](img/tutorial20.jpg)
+![](img/tutorial31.png)
 
 9\. At the bottom of the Assets window: use import.
 
-![](img/tutorial21.jpg)
+![](img/tutorial30.png)
 
 Select the model you exported earlier from Agisoft and the texture.
 [PLEASE import them at once, like what I did in the image below. In this case, the texture should automatically be recognized and attached to the 3D model. If your model still appears with empty texture, you can manually drag the texture onto the model to finish it.]
