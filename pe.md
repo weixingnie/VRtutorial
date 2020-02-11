@@ -76,16 +76,16 @@ Then, you just need to follow the instruction of the software.
 
 
 2\. Once you open the software, you enter the main interface of this software.
+In this user interface, all of our operations are located on these four colored squares. The largest square with the red color is where our 3D model presents _(Model viewing panel)_. The circle in the center is a tool for us to navigate our 3D model. It has three-axis (X, Y, Z). Use your mouse to drag on each axis for different angels.
+
+
+3\. The square with the blue color _(Browsing panel)_ is where our photo appears. You can select each camera position/photo individually.
+The square with the green color is our manual toolbar _(toolbar panel)_. It provides function with saving, opening, clicking, zooming, and deleting.
+The yellow square _(Access panel)_ is the same manual tab but in words instead of icons. Here, we shall take a glance at our project.
 
 ![](img/tutorial4.png)
-In this user interface, all of our operations are located on these four colored squares. The largest square with the red color is where our 3D model presents. The circle in the center is a tool for us to navigate our 3D model. It has three-axis (X, Y, Z). Use your mouse to drag on each axis for different angels.
 
 
-3\. The square with the blue color is where our photo appears. You can select each camera position/photo individually.
-The square with the green color is our manual toolbar. It provides function with saving, opening, clicking, zooming, and deleting.
-The yellow square is the same manual tab but in words instead of icons. Here, we shall take a glance at our project.
-
-![](img/tutorial4.png)
 ![](img/tutorial17.jpg)
 
 4\. Next, we need to click the workflow tab. Then, we have to select add photos or add Folder. (If you are using Add Folder, please remember to pick “single cameras”).
@@ -164,7 +164,8 @@ Also, please use a mouse to control unity. This case will save a lot of time ins
 ![](img/tutorial30.png)
 
 Select the model you exported earlier from Agisoft and the texture.
-[PLEASE import them at once, like what I did in the image below. In this case, the texture should automatically be recognized and attached to the 3D model. If your model still appears with empty texture, you can manually drag the texture onto the model to finish it.]
+
+_PLEASE import them at once, like what I did in the image below. In this case, the texture should automatically be recognized and attached to the 3D model. If your model still appears with empty texture, you can manually drag the texture onto the model to finish it._
 
 *If you do not like so many cameras appearing on your model, you can unpack prefab completely by right click on the objects.*
 
