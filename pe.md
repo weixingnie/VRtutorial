@@ -6,6 +6,7 @@
 
 **Contact:** 206.685.3846, zhaobo@uw.edu, jakobzhao (skype/wechat)
 
+In this practical execerise, we introduce how some basic knowledge of VR. You are expected to make a simple 3D model by taking photos _(any device, it could be camera/phone)_. The aim is to give you a basic understanding of virtual reality and its potential of 3D modeling with the relationship to Geo-humanity. Even for now, virtual reality is still a brand new, advanced technology, and it is slowly beginning to show off in fields, such as medical study, videogame industry, military training, and informatics management. For this practice, you are going to engage and create your own 3D model and virtual reality experience.
 
 ## 1. Preparations
 
@@ -45,7 +46,7 @@ A unity ID is needed for managing and synchronizing your unity project. If you d
 
 We are building a 3D model base on photo-scanning technology. Please use your phone/camera to take multiple images around your target. Ensuring the consistency of light is significant for creating a well-detailed model. The more pictures there are, the better the model would be.
 Example of taking photos are here:
-![](img/tutorial15.jpg)
+![](img/photos.png)
 
 *The husky model that I did needs around 100 photos at least from multiple angles.*
 > Example of photo scanning can be found in the folder named "Huskydog"
@@ -72,8 +73,6 @@ Then, you just need to follow the instruction of the software.
 ## 3\. Now let's create our 3D model.
 
 1\. **Agisoft Metashape** is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial data to be used in GIS applications, cultural heritage documentation, and visual effects production as well as for indirect measurements of objects of various scales.
-
-![](img/tutorial3.png)
 
 
 2\. Once you open the software, you enter the main interface of this software.
@@ -146,13 +145,18 @@ Export texture in the image: *JPEG, PNG, TIEF, EXR*
 
 8\. Remember you need a unity account to start the next part!!!!(Tutorial 1.1 - 1.2)
 
-![](img/tutorial19.jpg)
+![](img/tutorial112.png)
 
-I strongly recommend you to watch this tutorial from 1:35 --- 5:00.
-Also, please use a mouse to control unity. This case will save a lot of time instead of using the touchpad.
+8.5\. Here we are going to have a quick introduction for the basic usage of Unity. We have four different color frames again.
+The top green frame is basic function bar/toolbar, you can save/delete/rotate/change camera position.
+The red frame is the browsing panel. All your materials/object in the game shall be presented here. We recommend you to unpack all the prefab when you are importing the 3D model and texture. In this case, it is easier to access or manipulate your camera.
+The blue frame shows the assets panel. All of your imported assets should be illustrated (you can also import assets by right click on the panel).
+At last, we have our view panel in the yellow frame. The yellow circle on pops up if you select your object from the browsing panel, it has a triangular shape arrows. Use it to move the object in X,Y,Z vector direction(you can also drag the square).
 
-([Click here to watch](https://www.youtube.com/watch?v=IlKaB1etrik&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2))
-
+![](img/tutorial113.png)
+*Additional information*
+>I strongly recommend you to watch this tutorial from 1:35 --- 5:00.
+Also, please use a mouse to control unity. This case will save a lot of time instead of using the touchpad. ([Click here to watch](https://www.youtube.com/watch?v=IlKaB1etrik&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2))
 ![](img/tutorial31.png)
 
 9\. At the bottom of the Assets window: use import.
@@ -181,6 +185,27 @@ In my experiment, you can take a glance at the potential of Virtual Reality. Ima
 >Motion sickness occurs due to a difference between actual and expected motion. Symptoms commonly include nausea, vomiting, cold sweat, headache, sleepiness, yawning, loss of appetite, and increased salivation. Complications may rarely include dehydration, electrolyte problems, or a lower esophageal tear.
 
 >User Isolation occurs due to the usage of virtual reality. The players sink into their world with little notice to the actual world. This sort of isolation could lead to anxiety and frustration.
+
+10\. Oculus Rift set up.
+
+*Here is the minimum requirement for using Oculus Rift S.*
+![](img/oculus3.png)
+
+Set up:
+>First, you need to have a VR equipment.
+
+([Click here to buy/download the software](https://www.oculus.com/setup/#rift-s-setup)
+![](img/oculus1.png)
+
+>Click the download software button. Then, you need to allow the install program by pressing _"Get Started"_.
+
+![](img/oculus2.png)
+
+>Finish the install. Then, you need patiently waiting for your pc to recognize this device.
+
+>After you successfully paired with your pc, you should view a virtual interface.
+
+![](img/interface.jpg)
 
 ## 4. Deliverable
 
