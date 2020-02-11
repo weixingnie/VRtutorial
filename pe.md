@@ -6,7 +6,7 @@
 
 **Contact:** 206.685.3846, zhaobo@uw.edu, jakobzhao (skype/wechat)
 
-In this practical execerise, we introduce how some basic knowledge of VR. You are expected to make a simple 3D model by taking photos _(any device, it could be camera/phone)_. The aim is to give you a basic understanding of virtual reality and its potential of 3D modeling with the relationship to Geo-humanity. Even for now, virtual reality is still a brand new, advanced technology, and it is slowly beginning to show off in fields, such as medical study, videogame industry, military training, and informatics management. For this practice, you are going to engage and create your own 3D model and virtual reality experience.
+In this practical execerise, we introduce some basic knowledge of VR. You are expected to make a simple 3D model by taking photos _(any device, it could be camera/phone)_. The aim is to give you a basic understanding of virtual reality and its potential of 3D modeling with the relationship to Geo-humanity. Even for now, virtual reality is still a brand new, advanced technology, and it is slowly beginning to show off in fields, such as medical study, videogame industry, military training, and informatics management. For this practice, you are going to engage and create your own 3D model and virtual reality experience.
 
 ## 1. Preparations
 
@@ -51,9 +51,9 @@ Example of taking photos are here:
 *The husky model that I did needs around 100 photos at least from multiple angles.*
 > Example of photo scanning can be found in the folder named "Huskydog"
 
-> A step-by-step tutorial on Agisoft turial
 
-## 2\. Have a free trial Request
+
+## 2\. Have a free trial Request _(A step-by-step tutorial on Agisoft turial)_
 
 You can try Agisoft Metashape software either in demo mode (export and save functions are blocked) or test it in full function mode with 30-day trial license for free. Link: [https://www.agisoft.com/downloads/request-trial/](https://www.agisoft.com/downloads/request-trial/)
 
@@ -69,6 +69,8 @@ After you successfully have the activate code from Agisoft, you should be able t
 
 Remember we want to install **Agisoft Metashape**.
 Then, you just need to follow the instruction of the software.
+
+![](img/tutorial114.png)
 
 ## 3\. Now let's create our 3D model.
 
