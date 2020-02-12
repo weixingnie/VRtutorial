@@ -11,7 +11,7 @@ In this practical execerise, we introduce some basic knowledge of VR. You are ex
 ## 1. Preparations
 
 ### 1.1 Environment setup
-For this practical exercise, you will use chrome, unity, and Agisoft Metagshape.
+For this practical exercise, you will use unity and Agisoft Metagshape.
 
 Background information is all from Wikipedia.
 
@@ -22,8 +22,6 @@ Background information is all from Wikipedia.
 (Please select **Individual and Personal**, then press Get started for downloading)
 
 **Agisoft Metashape :** is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial data to be used in GIS applications, cultural heritage documentation, and visual effects production as well as for indirect measurements of objects of various scales.
-
-**Chrome** is a freeware web browser developed by Google. It was first released on September 2, 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS and Android. Google Chrome is also the main component of Chrome OS, where it serves as a platform for running web apps. Click here to see a demo on how to install Google Chrome.
 
 > **What is 3D scanning?** 3D scanning is the process of analyzing a real-world object or environment to collect data on its shape and possibly its appearance (e.g. colour). The collected data can then be used to construct digital 3D models.
 
@@ -53,7 +51,7 @@ Example of taking photos are here:
 
 
 
-## 2\. Have a free trial Request _(A step-by-step tutorial on Agisoft turial)_
+## 2\. A step-by-step tutorial on Agisoft tutorial
 
 You can try Agisoft Metashape software either in demo mode (export and save functions are blocked) or test it in full function mode with 30-day trial license for free. Link: [https://www.agisoft.com/downloads/request-trial/](https://www.agisoft.com/downloads/request-trial/)
 
