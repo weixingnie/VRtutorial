@@ -177,6 +177,10 @@ Congrats! Now your 3D model is done. You can just adjust the position/camera for
 To activate the VR setting in Unity just go through this website.
 ([Click here to watch the VR setting in Unity](https://docs.unity3d.com/Manual/VROverview.html)
 
+Furthermore, you are welcome to export this VR in different settings. All you need to do is just click "file" on the top toolbar.
+![](img/tutorial115.png)
+In the build setting, you can have the option of running on Windows, Mac, Android, even Linux.
+![](img/tutorial116.png)
 ### VR experience
 >*Virtual reality (VR)* is a simulated experience that can be similar to or completely different from the real world. Applications of virtual reality can include entertainment (i.e. video games) and educational purposes (i.e. medical or military training). Other, distinct types of VR style technology include augmented reality and mixed reality.
 >Currently standard virtual reality systems use either virtual reality headsets or multi-projected environments to generate realistic images, sounds and other sensations that simulate a user's physical presence in a virtual environment. A person using virtual reality equipment is able to look around the artificial world, move around in it, and interact with virtual features or items. The effect is commonly created by VR headsets consisting of a head-mounted display with a small screen in front of the eyes, but can also be created through specially designed rooms with multiple large screens. Virtual reality typically incorporates auditory and video feedback, but may also allow other types of sensory and force feedback through haptic technology.
