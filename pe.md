@@ -179,8 +179,18 @@ To activate the VR setting in Unity just go through this website.
 
 Furthermore, you are welcome to export this VR in different settings. All you need to do is just click "file" on the top toolbar.
 ![](img/tutorial115.png)
-In the build setting, you can have the option of running on Windows, Mac, Android, even Linux.
+
+>_Please remember once you click the file option, you have to pick one platform among all the options. In the build setting, you can have the option of running on Windows, Mac, Android, even Linux. If you want to export on PC/MAC/Linux, select your target platform (unity can autodetect your computer, so you might have only one option for export)._
+
+>_For windows Users, architecture X86-64 is good for most of the computer. You should leave the rest unselected(Sever Build, Copy PDB Build, Create Visual Studio Solution, and development Build). Also, leave it to default for Compression method._
+
+
+*There are also a Player Settings on the lower left corner. You are welcome to change/adjust your intended equipment/icon by using the player setting. To change the VR equipment, you should find "XR Settings" under the Player Settings menu.*
+
+
 ![](img/tutorial116.png)
+
+
 ### VR experience
 >*Virtual reality (VR)* is a simulated experience that can be similar to or completely different from the real world. Applications of virtual reality can include entertainment (i.e. video games) and educational purposes (i.e. medical or military training). Other, distinct types of VR style technology include augmented reality and mixed reality.
 >Currently standard virtual reality systems use either virtual reality headsets or multi-projected environments to generate realistic images, sounds and other sensations that simulate a user's physical presence in a virtual environment. A person using virtual reality equipment is able to look around the artificial world, move around in it, and interact with virtual features or items. The effect is commonly created by VR headsets consisting of a head-mounted display with a small screen in front of the eyes, but can also be created through specially designed rooms with multiple large screens. Virtual reality typically incorporates auditory and video feedback, but may also allow other types of sensory and force feedback through haptic technology.
